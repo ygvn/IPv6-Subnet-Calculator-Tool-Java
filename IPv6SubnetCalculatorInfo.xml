@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<IPv6SubnetCalculatorInfo>
+    <!--Generated XML file.
+        Change any value here and restart the application.-->
+    <UserInterface>
+        <address>2001:db8:abcd:1234::</address>
+        <prefixValue>32</prefixValue>
+        <subnetValue>48</subnetValue>
+        <prefixColor>#ff0000</prefixColor>
+        <subnetColor>#00ff00</subnetColor>
+        <checkSubnet>true</checkSubnet>
+        <check128bit>false</check128bit>
+        <checkEnd>false</checkEnd>
+    </UserInterface>
+    <DBServer>
+        <ServerIP>127.0.0.1</ServerIP>
+        <PortNumber>3306</PortNumber>
+        <DatabaseName>nets</DatabaseName>
+        <TableName>nets</TableName>
+        <UserName>nets</UserName>
+    </DBServer>
+</IPv6SubnetCalculatorInfo>
