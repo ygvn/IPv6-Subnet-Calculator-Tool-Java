@@ -25,9 +25,9 @@ We are in the transition phase of our networks addressing structure from IPv4 to
 * Service Names and Port Numbers Tool (updated from IANA)
 * Whois Query Tool
 
-
-
-
+You can download from:   
+https://github.com/ygvn/IPv6-Subnet-Calculator-Tool-Java/blob/master/IPv6SubnetCalculator_v4.0_Java.Jar.EXE.zip   
+   
 Copyright (c) 2010-2022, Yucel Guven   
 All rights reserved.
 
