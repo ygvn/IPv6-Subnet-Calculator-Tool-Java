@@ -12,7 +12,7 @@ We are in the transition phase of our networks addressing structure from IPv4 to
 **Features:**   
 * MySQL Database Connection support   
   .Store/update/manage IPv6 prefixes with MySQL database server   
-  .Tested with MySQL Database Connector Driver, Version 8.0.28    
+  .Tested with MySQL Database Connector Driver, Version 8.0.28 (Recommended)    
 * Statistical View of Assigned/Available Prefixes   
   .**Note**: Assigned prefixes must exist in the database   
   .Parent Prefixes are visible   
